@@ -1,0 +1,11 @@
+{
+  "name": "Dark_Orange_Intellij_Theme",
+  "author": "Kirill Khnychkin",
+  "dark": true,
+  "colors": {
+    "primaryRed": "#821010"
+  },
+  "ui": {
+    "Button.background": "primaryRed"
+  }
+}
