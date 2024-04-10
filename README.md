@@ -1,2 +1,3 @@
-# Dark_Orange_Intellij_Theme
+# Dark Orange Intellij Theme
+
 Dark orange theme for JetBrains Intelliji IDEs
